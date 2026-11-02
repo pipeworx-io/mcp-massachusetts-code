@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-massachusetts-code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Massachusetts General Laws — state statutes by citation.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "massachusetts-code",
     "gatewaySlug": "massachusetts-code",
-    "sourceHash": "v1-0c32e47d0ee394d2a08f0eac07621ebea75e3da91464c79dae1e46ea1ea766ee",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-3b68a7a55c2c2d11413d16e5c35138c3cbeb8a8ab9fced41e5d91370c8c5f118",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
